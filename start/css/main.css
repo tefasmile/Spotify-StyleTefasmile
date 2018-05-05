@@ -6,3 +6,21 @@ Green: #00B172
 White: #FFF
 
 */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+.head{
+    display: flex;
+    
+}

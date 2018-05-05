@@ -9,6 +9,7 @@ White: #FFF
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -17,10 +18,21 @@ body{
 
 ul{
     list-style-type: none;
+    display: flex;
 }
 
+ul li{
+    margin-left: 1.5em;
+}
+
+.menu{
+    top: -.8em;
+    position: relative;
+}
 
 .head{
     display: flex;
-    
+    justify-content: space-around;
+    align-items: baseline;
+    margin-top: .8em;
 }

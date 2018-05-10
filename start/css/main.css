@@ -25,9 +25,26 @@ ul li{
     margin-left: 1.5em;
 }
 
+#banner{
+    background-image: url("../img/fondoland.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 100%;
+    height: 685px;
+}
+
+.bigtitle{
+    font-size: 68px;
+    color: white;
+}
+
 .menu{
     top: -.8em;
     position: relative;
+}
+
+.free{
+
 }
 
 .head{

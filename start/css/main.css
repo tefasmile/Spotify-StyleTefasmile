@@ -38,6 +38,8 @@ ul li{
     font-size: 78px;
     color: white;
     text-align: center;
+    position: relative;
+    top: 1.2em;
 }
 
 .menu{
@@ -47,6 +49,11 @@ ul li{
 
 .free{
     color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6em;
+    position: relative;
+    top: 125px;
+    text-align: center;
 }
 
 .head{
